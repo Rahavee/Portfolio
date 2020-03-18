@@ -34,7 +34,7 @@ export default function App() {
             id="myPicture"
             src={me}
           />
-          <p id="about">Hello! I am Rahavee, a third year computer science student in University of Vermont</p>
+          <p id="about">Hello! I am Rahavee, a third year computer science student in University of Vermont. I look forward to bring enthusiasm to learn and technical knowledge to the work place</p>
         </div>
         <div id="right-content">
           <h1 id ="aboot" style={{color:"#721b65"}}>ABOUT</h1 >
