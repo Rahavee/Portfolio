@@ -1,28 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4d13421a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.26678d18.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.26678d18.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.9fbb00bc.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9fbb00bc.js.map",
+    "main.css": "/Portfolio/static/css/main.09703ff1.chunk.css",
+    "main.js": "/Portfolio/static/js/main.31d786cb.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.31d786cb.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
     "static/css/2.0161871a.chunk.css": "/Portfolio/static/css/2.0161871a.chunk.css",
-    "static/js/2.db890b83.chunk.js": "/Portfolio/static/js/2.db890b83.chunk.js",
-    "static/js/2.db890b83.chunk.js.map": "/Portfolio/static/js/2.db890b83.chunk.js.map",
+    "static/js/2.efd1fedb.chunk.js": "/Portfolio/static/js/2.efd1fedb.chunk.js",
+    "static/js/2.efd1fedb.chunk.js.map": "/Portfolio/static/js/2.efd1fedb.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.ff24f0984fea6fc04b8c9237924831c4.js": "/Portfolio/precache-manifest.ff24f0984fea6fc04b8c9237924831c4.js",
+    "precache-manifest.6a8daad2e6bebe2d9e0436fac663b8f9.js": "/Portfolio/precache-manifest.6a8daad2e6bebe2d9e0436fac663b8f9.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.0161871a.chunk.css.map": "/Portfolio/static/css/2.0161871a.chunk.css.map",
-    "static/css/main.4d13421a.chunk.css.map": "/Portfolio/static/css/main.4d13421a.chunk.css.map",
-    "static/js/2.db890b83.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.db890b83.chunk.js.LICENSE.txt",
+    "static/css/main.09703ff1.chunk.css.map": "/Portfolio/static/css/main.09703ff1.chunk.css.map",
     "static/media/Etch.jpg": "/Portfolio/static/media/Etch.71b433a2.jpg",
     "static/media/Snackman.jpg": "/Portfolio/static/media/Snackman.d8b87e8f.jpg",
     "static/media/me.jpg": "/Portfolio/static/media/me.9d35e86d.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.9fbb00bc.js",
-    "static/css/2.0161871a.chunk.css",
-    "static/js/2.db890b83.chunk.js",
-    "static/css/main.4d13421a.chunk.css",
-    "static/js/main.26678d18.chunk.js"
-  ]
+  }
 }
