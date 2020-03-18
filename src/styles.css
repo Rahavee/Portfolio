@@ -12,7 +12,7 @@
 }
 body {
   margin: 0;
-  background-color: #f5f0f4;
+  background-color: white;
 }
 
 nav {
@@ -106,7 +106,7 @@ h1 {
 #right-content {
   height: 80vh;
   width: 100%;
-  background-color: #f5f0f4;
+  background-color: white;
   border-top-left-radius: 150px;
   text-align: center;
 }
